@@ -1,7 +1,7 @@
 ## Interface: 80000
 
 ## Title: Frifty Level
-## Version: 0.8 Beta
+## Version: 1.0
 ## Notes: Magical addon that makes your character emote when it reach a new level
 ## Author: Frifty
 ## eMail: frifty.gaming@gmail.com
